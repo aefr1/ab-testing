@@ -15,7 +15,7 @@
             <td>1</td>
             <td>
                 <b>
-                    <a href="https://github.com/aefr1/ab_testing/tree/main/analysis_ab_test_results">
+                    <a href="https://github.com/aefr1/ab-testing/tree/main/analysis_ab_test_results">
                     Приоритизация гипотез и анализ результатов A/B-теста</a>
                 </b>
             </td>
@@ -39,7 +39,7 @@
             <td>2</td>
             <td>
                 <b>
-                    <a href="https://github.com/aefr1/ab_testing/tree/main/mobile_app_users_ab">
+                    <a href="https://github.com/aefr1/ab-testing/tree/main/mobile_app_users_ab">
                     Изучение пользователей мобильного приложения в стартапе по продажам продуктов питания и оценка результатов A/A/B эксперимента</a>
                 </b>
             </td>
@@ -65,7 +65,7 @@
             <td>3</td>
             <td>
                 <b>
-                    <a href="https://github.com/aefr1/ab_testing/tree/main/ab_testing">
+                    <a href="https://github.com/aefr1/ab-testing/tree/main/ab_testing">
                     A/B-тестирование</a>
                 </b>
             </td>
