@@ -65,7 +65,7 @@
             <td>3</td>
             <td>
                 <b>
-                    <a href="https://github.com/aefr1/ab-testing/tree/main/ab_testing">
+                    <a href="https://github.com/aefr1/ab-testing/tree/main/ab_testing_rst">
                     A/B-тестирование</a>
                 </b>
             </td>
